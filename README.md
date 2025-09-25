@@ -3,7 +3,7 @@
 🎓 AI & Data Science Student at ENSIA  
 🔬 Passionate about Machine Learning, Deep Learning & Data Engineering  
 📊 Love turning data into insights and building real-world AI solutions  
-🌍 From Algeria | 💼 Open to internships and collaborations
+💼 Open to internships
 
 ---
 
