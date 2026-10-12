@@ -1,8 +1,6 @@
 <!-- MIDNIGHT / THE QUEEN'S GAMBIT — Dounyazad Berkane -->
 <div align="center">
 
-<img src="assets/masthead.svg" alt="Dounyazad Berkane — AI and Data Science Engineering" width="100%" />
-
 <img src="assets/midnight-city.png" alt="Midnight city and anime-inspired noir atmosphere" width="100%" />
 
 <br />
