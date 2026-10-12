@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="320" viewBox="0 0 850 320" role="img" aria-label="Current focus animated progress bars">
+<style>text{font-family:monospace;fill:#DAD6EB;font-size:15px}.pct{fill:#BBA7FF}.bg{fill:#151424}.fill{fill:#7967B5}</style>
+<rect width="850" height="320" rx="14" fill="#0B0D19" stroke="#302743"/>
+<text x="35" y="35">Machine Learning & Deep Learning</text>
+<text class="pct" x="810" y="35" text-anchor="end">85%</text>
+<rect class="bg" x="35" y="47" width="775" height="9" rx="4.5"/>
+<rect class="fill" x="35" y="47" width="0" height="9" rx="4.5"><animate attributeName="width" from="0" to="658.8" dur="1.7s" fill="freeze" begin="0.2s"/></rect>
+<text x="35" y="93">NLP & Large Language Models</text>
+<text class="pct" x="810" y="93" text-anchor="end">70%</text>
+<rect class="bg" x="35" y="105" width="775" height="9" rx="4.5"/>
+<rect class="fill" x="35" y="105" width="0" height="9" rx="4.5"><animate attributeName="width" from="0" to="542.5" dur="1.7s" fill="freeze" begin="0.2s"/></rect>
+<text x="35" y="151">Data Engineering & Analytics</text>
+<text class="pct" x="810" y="151" text-anchor="end">65%</text>
+<rect class="bg" x="35" y="163" width="775" height="9" rx="4.5"/>
+<rect class="fill" x="35" y="163" width="0" height="9" rx="4.5"><animate attributeName="width" from="0" to="503.8" dur="1.7s" fill="freeze" begin="0.2s"/></rect>
+<text x="35" y="209">Computer Vision</text>
+<text class="pct" x="810" y="209" text-anchor="end">50%</text>
+<rect class="bg" x="35" y="221" width="775" height="9" rx="4.5"/>
+<rect class="fill" x="35" y="221" width="0" height="9" rx="4.5"><animate attributeName="width" from="0" to="387.5" dur="1.7s" fill="freeze" begin="0.2s"/></rect>
+<text x="35" y="267">Embedded AI & Robotics</text>
+<text class="pct" x="810" y="267" text-anchor="end">40%</text>
+<rect class="bg" x="35" y="279" width="775" height="9" rx="4.5"/>
+<rect class="fill" x="35" y="279" width="0" height="9" rx="4.5"><animate attributeName="width" from="0" to="310.0" dur="1.7s" fill="freeze" begin="0.2s"/></rect>
+</svg>
