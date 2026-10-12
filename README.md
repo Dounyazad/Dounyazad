@@ -1,3 +1,4 @@
+<!-- MIDNIGHT / THE QUEEN'S GAMBIT — Dounyazad Berkane -->
 
 <div align="center">
 
@@ -54,11 +55,12 @@
 <!-- CHESS ART -->
 <div align="center">
 
-<img src="assets/chess-noir_2.png" width="100%" alt="Gothic anime portrait, chess pieces, and the words Not just learning AI, but building what matters" />
+<img src="assets/chess-noir.png" width="100%" alt="Gothic anime portrait with chess pieces and the quote: Not just learning AI, but building what matters." />
 
 <br /><br />
 
-<sub>STRATEGY IS A FORM OF THINKING.</sub>
+<sub>STRATEGY IS A FORM OF THINKING.</sub><br />
+<sub>Every skill begins with curiosity. Every experiment is another move on the board.</sub>
 
 <br /><br />
 
@@ -77,10 +79,6 @@
 <img src="assets/focus.svg" width="100%" alt="Skill levels: Machine Learning 85%, NLP 82%, Data Science 81%, Computer Vision/OCR 74%, Reinforcement Learning 70%, Time Series 66%, Frontend 76%, Databases 74%, Software Engineering 70%" />
 
 <br />
-
-<sub>Every skill begins with curiosity. Every experiment is another move on the board.</sub>
-
-<br /><br />
 
 <img src="assets/divider.svg" width="90%" alt="" />
 
