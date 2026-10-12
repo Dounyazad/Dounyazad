@@ -4,15 +4,13 @@
 
 <img src="assets/midnight-city.png" alt="Midnight city and anime-inspired noir atmosphere" width="100%" />
 
-<br />
-
-
 <br /><br />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1200&color=BBA7FF&center=true&vCenter=true&width=800&height=55&lines=AI+%26+Data+Science+Engineering+%40+ENSIA;Machine+Learning+%2F+NLP+%2F+Computer+Vision;Building+systems+that+work+beyond+the+notebook;Curiosity+is+the+starting+point.&repeat=true" alt="AI & Data Science Engineering @ ENSIA" />
 
 <br />
 
+<!-- LINKS: they appear only here, once -->
 <a href="https://berkane-dounyazad-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0D19?style=for-the-badge&logo=netlify&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="PORTFOLIO" /></a>
 <a href="mailto:dounyazad.berkane@ensia.edu.dz"><img src="https://img.shields.io/badge/EMAIL-0B0D19?style=for-the-badge&logo=gmail&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="EMAIL" /></a>
 <a href="https://www.linkedin.com/in/dounyazad-berkane-332921381/"><img src="https://img.shields.io/badge/LINKEDIN-0B0D19?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQkJBN0ZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="LINKEDIN" /></a>
@@ -23,14 +21,14 @@
 
 <br /><br />
 
-<!-- DID YOU KNOW (TOP) -->
-<sub>D I D &nbsp; Y O U &nbsp; K N O W</sub>
+<!-- MORE ABOUT ME (TOP) -->
+<sub>W H A T &nbsp; I &nbsp; L O V E</sub>
 <br />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1800&color=8D83C9&center=true&vCenter=true&width=760&height=35&lines=The+word+hackathon+dates+back+to+1999;Ice+cream+sales+and+drownings+rise+together%3A+correlation+is+not+causation;180%2C000%2B+lines+of+model+code+shrunk+to+about+1%2C500+to+fit+on+an+ESP32;The+Queen%27s+Gambit+is+not+a+true+gambit%3A+White+wins+the+pawn+back&repeat=true" alt="Facts about hackathons, causality, embedded AI and chess" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1800&color=8D83C9&center=true&vCenter=true&width=800&height=35&lines=Teaching+machines+to+learn+from+data;Making+deep+networks+see%2C+read+and+reason;Language+models%3A+where+words+become+meaning;Turning+pixels+and+scanned+pages+into+knowledge;Chasing+answers+through+research;ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+LLMs+%C2%B7+CV+%C2%B7+OCR&repeat=true" alt="What I love: teaching machines to learn from data, deep learning, NLP and LLMs, computer vision and OCR, and research" />
 
 <br /><br />
 
-<!-- SHOWCASE: LEFT GIF | FUN FACT IN THE MIDDLE | RIGHT GIF (the only two GIFs on the same line) -->
+<!-- SHOWCASE: LEFT GIF | FUN FACTS IN THE MIDDLE | RIGHT GIF -->
 <table align="center" width="100%">
 <tr>
 
@@ -43,23 +41,14 @@
 
 </td>
 
-<!-- MIDDLE: fun fact about me + links -->
+<!-- MIDDLE: fun facts about me -->
 <td width="44%" align="center" valign="middle">
 
-<sub>F U N &nbsp; F A C T &nbsp; A B O U T &nbsp; M E</sub>
-<br /><br />
+<h2 align="center">F U N &nbsp; F A C T S &nbsp; A B O U T &nbsp; M E</h2>
 
-<sub>I rarely laugh.</sub>
+<h3 align="center">I rarely laugh.</h3>
 
-<br /><br />
-
-<sub>I like hackathons, competitions and research.</sub>
-
-<br /><br />
-
-<a href="https://berkane-dounyazad-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0D19?style=for-the-badge&logo=netlify&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="Portfolio" /></a>
-<a href="mailto:dounyazad.berkane@ensia.edu.dz"><img src="https://img.shields.io/badge/EMAIL-0B0D19?style=for-the-badge&logo=gmail&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/dounyazad-berkane-332921381/"><img src="https://img.shields.io/badge/LINKEDIN-0B0D19?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQkJBN0ZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="LinkedIn" /></a>
+<h3 align="center">I like hackathons, competitions and research.</h3>
 
 </td>
 
@@ -103,13 +92,23 @@
 
 </div>
 
-<!-- CURRENT FOCUS (LEFT) + CHESS ART (RIGHT) -->
+<!-- 3D NEURAL NETWORK (animated, rotating) -->
+<div align="center">
+
+<img src="assets/neural-3d.svg" width="70%" alt="Animated 3D neural network rotating, with signals travelling between layers" />
+
+<br /><br />
+
+<img src="assets/divider.svg" width="90%" alt="" />
+
+</div>
+
+<!-- CURRENT FOCUS (LEFT, vertically centered) + CHESS ART (RIGHT) -->
 <div align="center">
 
 <table align="center" width="100%">
-<tr>
+<tr valign="middle">
 
-<!-- LEFT: current focus heading + skill levels -->
 <td width="50%" align="center" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=2500&color=BBA7FF&center=true&vCenter=true&width=400&height=50&lines=CURRENT+FOCUS" alt="CURRENT FOCUS" />
@@ -120,7 +119,6 @@
 
 </td>
 
-<!-- RIGHT: chess art -->
 <td width="50%" align="center" valign="middle">
 
 <img src="assets/chess-noir_2.png" width="100%" alt="Gothic anime portrait with chess pieces and the quote: Not just learning AI, but building what matters." />
@@ -168,22 +166,27 @@
 
 <img src="https://ghchart.rshah.org/7967B5/Dounyazad" width="100%" alt="Contribution activity graph" />
 
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Dounyazad&hide_border=true&background=0B0D19&ring=BBA7FF&fire=BBA7FF&currStreakNum=DAD6EB&sideNums=DAD6EB&currStreakLabel=BBA7FF&sideLabels=8D83C9&dates=8D83C9" height="165" alt="GitHub streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dounyazad&bg_color=0B0D19&color=BBA7FF&line=7967B5&point=DAD6EB&area=true&area_color=7967B5&hide_border=true" width="100%" alt="Contribution activity line graph" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dounyazad&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Dounyazad&label=PROFILE+VIEWS&color=7967B5&style=for-the-badge&labelColor=0B0D19" alt="Profile views" />
+
 <!-- These third-party cards may be rate limited or unavailable; the rest of the README works without them. -->
 
 <br /><br />
 
 <img src="assets/divider.svg" width="90%" alt="" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=2500&color=BBA7FF&center=true&vCenter=true&width=500&height=50&lines=LET'S+CONNECT" alt="LET'S CONNECT" />
-<sub>FEEL FREE TO REACH OUT</sub>
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/dounyazad-berkane-332921381/"><img src="https://img.shields.io/badge/LinkedIn-0B0D19?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQkJBN0ZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="LinkedIn" /></a>
-<a href="mailto:dounyazad.berkane@ensia.edu.dz"><img src="https://img.shields.io/badge/Email-0B0D19?style=for-the-badge&logo=gmail&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="Email" /></a>
-<a href="https://berkane-dounyazad-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0B0D19?style=for-the-badge&logo=netlify&logoColor=BBA7FF&labelColor=0B0D19&color=7967B5" alt="Portfolio" /></a>
-
-<br /><br />
 
 <sub>GOOD THINGS TAKE TIME.</sub>
 
