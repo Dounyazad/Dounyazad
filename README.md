@@ -104,25 +104,32 @@
 
 </div>
 
-<!-- CHESS ART -->
+<!-- CURRENT FOCUS (LEFT) + CHESS ART (RIGHT) -->
 <div align="center">
 
-<img src="assets/chess-noir.png" width="100%" alt="Gothic anime portrait with chess pieces and the quote: Not just learning AI, but building what matters." />
+<table align="center" width="100%">
+<tr>
 
-<br /><br />
+<!-- LEFT: current focus heading + skill levels -->
+<td width="50%" align="center" valign="middle">
 
-<img src="assets/divider.svg" width="90%" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=2500&color=BBA7FF&center=true&vCenter=true&width=400&height=50&lines=CURRENT+FOCUS" alt="CURRENT FOCUS" />
 
-</div>
-
-<!-- CURRENT FOCUS -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=2500&color=BBA7FF&center=true&vCenter=true&width=500&height=50&lines=CURRENT+FOCUS" alt="CURRENT FOCUS" />
-
-<br /><br />
+<br />
 
 <img src="assets/focus.svg" width="100%" alt="Skill levels: Machine Learning 85%, NLP 82%, Data Science 81%, Computer Vision/OCR 74%, Reinforcement Learning 70%, Time Series 66%, Frontend 76%, Databases 74%, Software Engineering 70%" />
+
+</td>
+
+<!-- RIGHT: chess art -->
+<td width="50%" align="center" valign="middle">
+
+<img src="assets/chess-noir_2.png" width="100%" alt="Gothic anime portrait with chess pieces and the quote: Not just learning AI, but building what matters." />
+
+</td>
+
+</tr>
+</table>
 
 <br />
 
@@ -160,7 +167,7 @@
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dounyazad&bg_color=0B0D19&color=BBA7FF&line=7967B5&point=DAD6EB&area=true&area_color=7967B5&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph" />
+<img src="https://ghchart.rshah.org/7967B5/Dounyazad" width="100%" alt="Contribution activity graph" />
 
 <!-- These third-party cards may be rate limited or unavailable; the rest of the README works without them. -->
 
