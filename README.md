@@ -172,19 +172,6 @@
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dounyazad&bg_color=0B0D19&color=BBA7FF&line=7967B5&point=DAD6EB&area=true&area_color=7967B5&hide_border=true" width="100%" alt="Contribution activity line graph" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dounyazad&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Dounyazad&label=PROFILE+VIEWS&color=7967B5&style=for-the-badge&labelColor=0B0D19" alt="Profile views" />
-
-<!-- These third-party cards may be rate limited or unavailable; the rest of the README works without them. -->
-
-<br /><br />
 
 <img src="assets/divider.svg" width="90%" alt="" />
 
