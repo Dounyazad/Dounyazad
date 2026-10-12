@@ -198,7 +198,7 @@ Open to     :  Machine Learning Engineering, Data Science, NLP / Computer Vision
 
 <br />
 
-<img src="assets/chess-noir.png" width="100%" alt="Gothic anime portrait, chess pieces, and the words Not just learning AI, but building what matters" />
+<img src="assets/chess-noir_2.png" width="100%" alt="Gothic anime portrait, chess pieces, and the words Not just learning AI, but building what matters" />
 
 <br /><br />
 
