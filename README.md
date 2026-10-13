@@ -1,4 +1,3 @@
-<!-- MIDNIGHT / THE QUEEN'S GAMBIT — Dounyazad Berkane -->
 
 <div align="center">
 
@@ -49,7 +48,6 @@
 
 <td width="28%" align="center" valign="middle">
 
-<img src="assets/toolkit.svg" width="220" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face, Docker and Git icons" />
 <br />
 <img src="https://cdn.pixabay.com/animation/2026/10/04/23/37/23-37-56-980_512.gif" width="100%" alt="Animated companion" />
 
